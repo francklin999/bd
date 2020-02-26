@@ -1,0 +1,1 @@
+ select * from tb_produto p inner join tb_estoque e ON p.id_produto = e.id_filial;
